@@ -25,16 +25,22 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-![Screenshot](res/1.png)
+![Screenshot](images/1.png)
 
 ## Live Demo
 
-You can try the live demo [here](https://example.com).
+You can try the live demo [here](https://arindal1.github.io/cocktail-recipe/).
 
-## Credits
+## Contact
 
-This project was created by [Arindal Char](https://github.com/arindal1).
+If you have any questions, suggestions, or just want to connect, feel free to reach out:
+
+- GitHub: [arindal1](https://github.com/arindal1)
+- LinkedIn: [arindalchar](https://www.linkedin.com/in/arindalchar/)
+- Twitter: [arindal_17](https://twitter.com/arindal_17)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Keep Coding 🚀
